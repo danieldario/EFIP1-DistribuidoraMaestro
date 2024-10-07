@@ -38,7 +38,7 @@ CREATE TABLE `cliente` (
 
 LOCK TABLES `cliente` WRITE;
 /*!40000 ALTER TABLE `cliente` DISABLE KEYS */;
-INSERT INTO `cliente` VALUES (1,'Admin','Seminario','Cordoba','3513704225'),(2,'Manuel','Camilo Caro','Paysandu 1111','3513402190');
+INSERT INTO `cliente` VALUES (1,'Admin','Seminario','Salta','38713704225'),(2,'Daniel','Barrios','Vaqueros 1111','38713402190');
 /*!40000 ALTER TABLE `cliente` ENABLE KEYS */;
 UNLOCK TABLES;
 
@@ -63,7 +63,7 @@ CREATE TABLE `deposito` (
 
 LOCK TABLES `deposito` WRITE;
 /*!40000 ALTER TABLE `deposito` DISABLE KEYS */;
-INSERT INTO `deposito` VALUES (1,'Los pinos','Manuel J durán esq. suipacha');
+INSERT INTO `deposito` VALUES (1,'Casa Central','Los Dardos 232');
 /*!40000 ALTER TABLE `deposito` ENABLE KEYS */;
 UNLOCK TABLES;
 
@@ -179,7 +179,7 @@ CREATE TABLE `producto` (
 
 LOCK TABLES `producto` WRITE;
 /*!40000 ALTER TABLE `producto` DISABLE KEYS */;
-INSERT INTO `producto` VALUES (1012,'Papas fritas clasicas',700,100),(1316,'Papas fritas sabor ketchup',800,100),(1326,'Papas fritas sabor jamon',900,100),(1357,'Papas fritas sabor limón',800,100),(3108,'Mega queso',800,100),(6002,'Quento mix',800,100),(9121,'Nachos sabor choclo y manteca',600,100),(9130,'Nachos picantes sabor jalapeño',1000,100);
+INSERT INTO `producto` VALUES (1012,'Tornillos Autoperforantes',700,100),(1316,'Taladro',800,100),(1326,'Clavos 2,0',900,100),(1357,'Pintura Latex',800,100),(3108,'Pincel',800,100),(6002,'hidroLavadora',800,100),(9121,'Martilos',600,100),(9130,'CableCanal Premium',1000,100);
 /*!40000 ALTER TABLE `producto` ENABLE KEYS */;
 UNLOCK TABLES;
 
@@ -210,7 +210,7 @@ CREATE TABLE `usuario` (
 
 LOCK TABLES `usuario` WRITE;
 /*!40000 ALTER TABLE `usuario` DISABLE KEYS */;
-INSERT INTO `usuario` VALUES (1,'Admin','S21','adminquentoS21@gmail.com','admin','ManuCC-S21',1);
+INSERT INTO `usuario` VALUES (1,'Admin','S21','administrador@distribuidoramaestro.com.ar','admin','DaDABa-S21',1);
 /*!40000 ALTER TABLE `usuario` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
@@ -223,4 +223,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2024-06-30 11:48:21
+-- Dump completed on 2024-09-30 11:48:21
