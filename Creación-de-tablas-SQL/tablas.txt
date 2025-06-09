@@ -5,4 +5,3 @@ CREATE TABLE Clientes (
     Direccion VARCHAR(100),                     
     Telefono VARCHAR(20),                       
 );
-
