@@ -27,9 +27,7 @@ o	Mejora de procesos: A partir de la información recabada, será posible optimi
 
 
 ## Instalación
-1. Clonar el repositorio.
-2. Ejecutar `npm install` en la carpeta del frontend.
-3. Configurar la base de datos con los scripts SQL disponibles en la carpeta `database/`.
+
 
 ## Uso
-- Ejecutar `npm start` para iniciar el sistema.
+
