@@ -26,8 +26,11 @@ o	Generación de informes: El sistema permitirá generar reportes detallados sob
 o	Mejora de procesos: A partir de la información recabada, será posible optimizar el proceso de pedidos y mejorar la atención al cliente.
 
 
-## Video Demonstración
-[![](https://markdown-videos.deta.dev/youtu.be/WMuAQNB4SKU)](https://youtu.be/WMuAQNB4SKU)
+## 🎬 Video Explicativo del Proyecto
+
+Podés ver una presentación breve del sistema y su funcionamiento en el siguiente video:
+
+🔗 [Ver en YouTube](https://www.youtube.com/watch?v=WMuAQNB4SKU)
 
 ## Uso
 
