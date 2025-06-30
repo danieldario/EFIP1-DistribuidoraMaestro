@@ -27,7 +27,7 @@ o	Mejora de procesos: A partir de la información recabada, será posible optimi
 
 
 ## Video Demonstration
-[![](https://markdown-videos.deta.dev/youtu.be/WMuAQNB4SKU?si=7GaQEcg613huXQ8Y)](https://youtu.be/WMuAQNB4SKU?si=7GaQEcg613huXQ8Y)
+[![](https://markdown-videos.deta.dev/youtube/WMuAQNB4SKU)](https://youtu.be/WMuAQNB4SKU)
 
 ## Uso
 
