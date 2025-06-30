@@ -32,5 +32,6 @@ Podés ver una presentación breve del sistema y su funcionamiento en el siguien
 
 🔗 [Ver en YouTube](https://www.youtube.com/watch?v=WMuAQNB4SKU)
 
-## Uso
+https://github.com/user-attachments/assets/91b58590-934c-4b00-8973-3d6798715568
+
 
